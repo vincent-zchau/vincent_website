@@ -1,11 +1,33 @@
 ---
-title: "vincent_website"
+title: "Vincent Chau" 
+page-layout: full
 ---
 
-This is a Quarto website.
+::: {.grid .gap-4}
+::: {.g-col-12 .g-col-md-4}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<div class="profile-card">
+<p>Second-year Music/Psychology Student</p>
+<p>University of Glasgow</p>
 
-```{r}
-1 + 1
-```
+<img src="images/headshot_2025.jpg" class="avatar" alt="Headshot of Vincent Chau" />
+
+
+<p class="icons">
+<a href="mailto:3010388C@student.gla.ac.uk" aria-label="Email"><i class="bi bi-envelope"></i></a>
+<a href="https://github.com/emivincent-zchau" aria-label="GitHub"><i class="bi bi-github"></i></a>
+</p>
+</div>
+
+:::
+::: {.g-col-12 .g-col-md-8}
+
+## Biography
+
+I am Second-year Music/Psychology student at the University of Glasgow. 
+
+My
+
+
+:::
+:::
